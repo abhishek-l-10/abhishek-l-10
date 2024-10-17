@@ -5,8 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-l-10&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-l-10" /> </p>
 
 - 🔭 I’m currently working on a Real-time Project called **'MyPrism' keeps everything organized and allows efficient communication throughout the enterprise**
-
-- 👨‍💻 All of my projects are available at [https://codingboy03-myportfolio.netlify.app/](https://codingboy03-myportfolio.netlify.app/)
+  
+- 🌱 I’m currently learning DSA and Web Development
+- 
+- 👯 I’m looking to collaborate on Projects
 
 - 📫 How to reach me **abhishekhegde03@gmail.com**
 
