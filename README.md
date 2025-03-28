@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Real-time Project called **'MyPrism' keeps everything organized and allows efficient communication throughout the enterprise**
   
-- 🌱 A full-stack developer skilled in Angular, NestJS, and Postman excels in front-end development with Angular for UI creation,  back-end development with NestJS for server-side applications, and API testing and documentation with Postman.
+- 🌱 A full-stack developer proficient in Angular, NestJS, and Postman specializes in front-end development with Angular, back-end development with NestJS, and API testing and documentation with Postman.
   
 - 👯 I’m looking to collaborate on Projects
 
