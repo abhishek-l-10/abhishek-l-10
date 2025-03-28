@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 Fellow < Developers/ >!,   I'm Abhishek L</h1>
-<h3 align="center">Working as a Software Engineer at BTF Technology Private Ltd</h3>
+<h3 align="center">Working as a Junior Software Engineer at BTF Technology Private Ltd</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-l-10&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-l-10" /> </p>
 
 - 🔭 I’m currently working on a Real-time Project called **'MyPrism' keeps everything organized and allows efficient communication throughout the enterprise**
   
-- 🌱 I’m currently learning DSA and Web Development
+- 🌱 A full-stack developer skilled in Angular, NestJS, and Postman excels in front-end development with Angular for UI creation,  back-end development with NestJS for server-side applications, and API testing and documentation with Postman.
   
 - 👯 I’m looking to collaborate on Projects
 
